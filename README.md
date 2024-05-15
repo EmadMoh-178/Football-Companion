@@ -4,10 +4,6 @@ Football Companion is a c++ console application that uses OOP concepts to assist
 such as tracking leagues’ standings, players performance and statistics by encapsulating data, inheriting
 properties, and providing abstraction.
 
-| <img src = "https://cdn.discordapp.com/attachments/1062020220656558082/1077568698795171870/Omar02_a_football_design_3301931a-110c-48d2-8fad-4f0e5fb24985.png" width = "200" height = "200"/>
-|:--:| 
-| *Made with Midjourney* |
-
 # Features 
 
 - View information about various football leagues, such as the Premier League, La Liga, Serie A, and Bundesliga
